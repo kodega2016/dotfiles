@@ -1,0 +1,8 @@
+require("kode.plugins-setup")
+require("kode.core.colorscheme")
+require("kode.core.options")
+require("kode.core.keymaps")
+require("kode.plugins.comment")
+require("kode.plugins.nvim-tree")
+require("kode.plugins.lualine")
+require("kode.plugins.nvim-cmp")
